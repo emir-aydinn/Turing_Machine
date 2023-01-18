@@ -1,0 +1,26 @@
+2
+0 1
+4
+0 X 1 Y
+b
+5
+q1 q2 q3 qA qR
+q1
+qA
+qR
+q1 0 X R q2
+q1 1 Y R qR
+q1 X X R qR
+q1 Y Y R qA
+q1 b b R qR
+q2 0 0 R q2
+q2 1 Y L q3
+q2 X X R qR
+q2 Y Y R q2
+q2 b b R qR
+q3 0 0 L q3
+q3 1 b R qR
+q3 X X R q1
+q3 Y Y L q3
+q3 b b R qR
+000111
